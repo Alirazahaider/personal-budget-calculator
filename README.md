@@ -4,7 +4,7 @@ A sleek and interactive budget calculator built using **Next.js**, **TypeScript*
 
 ![Budget Calculator Screenshot](./public/screenshot.png)
 
-Live Demo: [stockfolio-calculator.vercel.app/](https://personal-budget-calculator.vercel.app/)
+Live Demo: [personal-budget-calculator.vercel.app](https://personal-budget-calculator.vercel.app/)
 
 ---
 
