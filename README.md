@@ -31,7 +31,7 @@ Live Demo: [stockfolio-calculator.vercel.app/](https://stockfolio-calculator.ver
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/personal-budget-calculator.git
+git clone https://github.com/Alirazahaider/personal-budget-calculator.git
 cd personal-budget-calculator
 npm install
 npm run dev
